@@ -11,9 +11,9 @@
 6）.统计每个box框的坐标点，绘轨迹，和计算场景内行人每一步的速度。
 ### 2.运行效果图
 图片中的黑点表示该时间步的轨迹点
-![图1](./test1.jpg)
-![图1](./test2.jpg)
-![图1](./test3.jpg)
+![图1](https://github.com/onlylove321/People_Trajectory_Speed/blob/master/test1.jpg)
+![图1](https://github.com/onlylove321/People_Trajectory_Speed/blob/master/test2.jpg)
+![图1](https://github.com/onlylove321/People_Trajectory_Speed/blob/master/test3.jpg)
 ***
 ### 3.相关代码块
 速度计算，图片帧率0.14s
